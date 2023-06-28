@@ -4,4 +4,3 @@ This repository contains code and data needed to reporduce the analysis in our p
 
 We have included scripts for building/augmenting a dataset of XPCS two time correlation functions, training a convolutional autoencoder to encode and reproduce XPCS data, and analysis scripts for unsupervised clustering in the latent space.
 
-test test test
