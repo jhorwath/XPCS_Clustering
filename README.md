@@ -12,3 +12,5 @@ Most data files needed to run training and analysis are available in the `analys
 however large files must be downloaded from our [storage 
 server](https://anl.app.box.com/s/dhqahh467gnv0srz0tct1ymaofgr07te), and files should be placed in 
 the `analysis_data` director.
+
+See `requirements.txt` for python package dependencies.  This code has been tested on MacOS Ventura 13.4.1.
